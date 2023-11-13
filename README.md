@@ -12,7 +12,7 @@ This is a simple Snake game implemented in Java. The game provides an interactiv
    
 2. Clone this repository to your local machine:
     ```
-    git clone https://github.com/your-repository/java-snake-game.git
+    git clone https://github.com/Tunahaha/JAVA_Snake_Game.git
     ```
     
 3. Switch to the directory of the repository you just cloned:
